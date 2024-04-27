@@ -22,7 +22,13 @@ pip install -r requirements.txt
 
 - Поместите токен в .env файл с параметром TOKEN 
 
-
+4. Заполните файл .env по форме :
+```sh
+TOKEN = 'токен бота'
+SUPABASE_URL = "supabase url"
+SUPABASE_KEY = "supabase ключ"
+CHANNEL_USERNAME = "@название канала с ботом админом"
+```
 Теперь переместите свои .env файлы в корневую директорию проекта
 
 
