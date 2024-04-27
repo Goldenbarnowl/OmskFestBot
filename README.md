@@ -31,10 +31,4 @@ pip install -r requirements.txt
 | Frame    |   Docs                                                   |
 |-----------|---------------------------------------------------------|
 |SupaBase   | https://supabase.com/docs |
-|gspread    | https://gspread.readthedocs.io/_/downloads/en/latest/pdf/ |
-|pydantic   | https://docs.pydantic.dev/latest/ | 
 |aiogram    | https://aiogram.readthedocs.io/_/downloads/en/latest/pdf/ |
-|schedule   | https://schedule.readthedocs.io/en/stable/installation.html |
-|qrcode     | https://pypi.org/project/qrcode/ |
-|pyzbar     | https://pypi.org/project/pyzbar/ |
-|userguide  | - |
