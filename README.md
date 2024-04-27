@@ -3,7 +3,6 @@
 
 ## Dependencies
 
-!!!Attention
 
 
 - Убедитесь что у вас установлен Python версии не ниже чем 3.9.X
