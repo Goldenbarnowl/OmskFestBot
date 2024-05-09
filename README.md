@@ -41,7 +41,8 @@ CHANNEL_USERNAME = "@название канала с ботом админом"
 python3 main.py
 ```
 
-
+> [!WARNING]
+> - requirements - испорчен
 # Documentation 
 
 | Frame    |   Docs                                                   |
